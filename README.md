@@ -6,5 +6,5 @@ Feel free to explore and gain insights into various Tableau topics applied in ea
 ## Projects list
 
 1. Student Onboarding Analysis
-2. Customer Engagement Analysis with SQL and Tableau Project
-3. Career Track Analysis with SQL and Tableau Project 
+2. Career Track Analysis with SQL and Tableau Project
+3. Customer Engagement Analysis with SQL and Tableau Project
