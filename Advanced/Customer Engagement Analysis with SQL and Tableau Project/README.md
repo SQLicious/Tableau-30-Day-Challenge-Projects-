@@ -37,14 +37,3 @@ Brief summary of the three complex SQL queries executed during the project.
 ## 8. Outcomes
 Summary of the project's outcomes, including insights gained and recommendations.
 
-## 9. Usage
-Instructions for replicating the project, running queries, and navigating the Tableau dashboard.
-
-## 10. Contributing
-Guidelines for contributions, if applicable.
-
-## 11. Acknowledgments
-A section expressing gratitude to the data source (365 Data Science) and any other contributors.
-
-## 12. License
-Details on the license governing the use and distribution of the project.
