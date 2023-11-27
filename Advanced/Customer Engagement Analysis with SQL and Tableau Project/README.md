@@ -31,7 +31,7 @@ Placeholder for an image of the Key Metrics page.
 
 Overview of the key metrics presented, such as KPIs, average and total minutes watched, and viewer metrics.
 
-### Page 3: Top Courses Analysis
+### Page 4: Top Courses Analysis
 Placeholder for an image of the Insights page.
 
 Detailed insights derived from the analysis, including trends, patterns, and recommendations.
