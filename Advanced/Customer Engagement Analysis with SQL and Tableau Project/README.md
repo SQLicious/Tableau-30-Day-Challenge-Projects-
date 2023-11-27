@@ -1,36 +1,50 @@
-Project Title: Student Engagement & Platform Optimization
+# Project Title: Student Engagement & Platform Optimization
 
-Overview:
-This repository houses the Student Engagement & Platform Optimization project, a part of the 30-day Tableauvember challenge. The objective is to analyze real Course and Student registration data from 365 Data Science (Jan - Oct 2022) using SQL and Tableau. The project aims to reveal insights into student engagement with the 365 Data Science Online platform and identify critical areas for improvement.
+## 1. Overview
+This repository houses the Student Engagement & Platform Optimization project, part of the 30-day Tableauvember challenge. The objective is to analyze real Course and Student registration data from 365 Data Science (Jan - Oct 2022) using SQL and Tableau. The project aims to reveal insights into student engagement with the 365 Data Science Online platform and identify critical areas for improvement.
 
-Structure:
-
-Introduction:
-
+## 2. Introduction
 Brief description of the project's objectives and significance.
-Data Source:
 
+## 3. Data Source
 Details on the source of the data and its relevance to the project.
-Tools Used:
 
+## 4. Tools Used
 Overview of the SQL and Tableau tools employed for analysis and visualization.
-Methodology:
 
+## 5. Methodology
 Step-by-step breakdown of the analytical process, from data exploration to visualization.
-Dashboard Features:
 
-Page-wise features of the three-page Tableau dashboard, highlighting key metrics and visualizations.
-Outcomes:
+## 6. Dashboard Features
+### Page 1: Introduction
+Placeholder for an image of the Introduction page.
 
+Brief description of the main goals and context of the project.
+
+### Page 2: Key Metrics
+Placeholder for an image of the Key Metrics page.
+
+Overview of the key metrics presented, such as KPIs, average and total minutes watched, and viewer metrics.
+
+### Page 3: Insights
+Placeholder for an image of the Insights page.
+
+Detailed insights derived from the analysis, including trends, patterns, and recommendations.
+
+## 7. SQL Queries Summary
+Brief summary of the three complex SQL queries executed during the project.
+
+## 8. Outcomes
 Summary of the project's outcomes, including insights gained and recommendations.
-Usage:
 
+## 9. Usage
 Instructions for replicating the project, running queries, and navigating the Tableau dashboard.
-Contributing:
 
+## 10. Contributing
 Guidelines for contributions, if applicable.
-Acknowledgments:
+
+## 11. Acknowledgments
 A section expressing gratitude to the data source (365 Data Science) and any other contributors.
 
-License:
+## 12. License
 Details on the license governing the use and distribution of the project.
