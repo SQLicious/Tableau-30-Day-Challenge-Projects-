@@ -7,8 +7,7 @@ Feel free to explore and delve into the diverse Tableau topics applied in each p
 ## Project Highlights:
 
 ### Week 1: Comparison Bar Chart [ Level : Beginner]
-- Explored a simple Comparison Bar chart 📊
-- Compared the annual sales of products A and B, highlighting trends and identifying a staple versus a seasonal high-performer.
+- Created a simple Comparison Bar chart 📊 that compared the annual sales of products A and B, highlighting trends and identifying a staple versus a seasonal high-performer.
 - GitHub Branch: [Week_1_Branch](#)
 - Tableau Public: [Click here to view the dashboard](https://lnkd.in/gRje2Xc2)
 
