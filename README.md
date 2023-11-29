@@ -8,7 +8,7 @@ Feel free to explore and delve into the diverse Tableau topics applied in each p
 
 ### Week 1: Comparison Bar Chart [ Level : Beginner]
 - Created a simple Comparison Bar chart 📊 that compared the annual sales of products A and B, highlighting trends and identifying a staple versus a seasonal high-performer.
-- GitHub Branch: [Week_1_Branch](#)
+- GitHub Branch: [Week_1_Branch](https://github.com/SQLicious/Tableau-30-Day-Challenge-Projects-/tree/9cb7dad33a8ac9f44aca37cafd7893108f5a5a43/Beginner)
 - Tableau Public: [Click here to view the dashboard](https://lnkd.in/gRje2Xc2)
 
 ### Week 2: Supply Chain Analysis Dashboard
