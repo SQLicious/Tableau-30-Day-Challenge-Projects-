@@ -18,8 +18,7 @@ Feel free to explore and delve into the diverse Tableau topics applied in each p
 - Tableau Public: [Click here to view the dashboard](https://lnkd.in/gfjZEy4y)
 
 ### Week 3: Student Onboarding Dashboard
-- Visualized how 365 Data Science users discover their platform 🎓
-- Explored students' learning preferences and career goals in the Student Onboarding Dashboard.
+- Visualized how 365 Data Science users discover their platform.Explored students' learning preferences and career goals in the Student Onboarding Dashboard.
 - GitHub Branch: [Week_3_Branch](#)
 - Tableau Public: [Click here to view the dashboard](https://lnkd.in/gmPqxhpE)
 
